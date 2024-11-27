@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=supan-roy&label=Profile%20views&color=0e75b6&style=flat" alt="supan-roy" /> </p>
 
-<p align="left"> <a href="https://twitter.com/supanroy0" target="blank"><img src="https://img.shields.io/twitter/follow/supanroy0?logo=twitter&style=for-the-badge" alt="supanroy0" /></a> </p>
 
 - 🏫 I’m currently studying **Computer Science and Engineering at Daffodil International University**
 

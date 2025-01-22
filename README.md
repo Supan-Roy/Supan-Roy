@@ -14,7 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/supanroy0" target="blank"><img align="center" src="https://penji.co/wp-content/uploads/2023/07/X-logo-twitter-1024x574.jpg" alt="supanroy0" height="30" width="40" /></a>
+<a href="https://twitter.com/supanroy0" target="_blank"><img align="center" src="https://penji.co/wp-content/uploads/2023/07/X-logo-twitter-1024x574.jpg" alt="supanroy0" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/supanroy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="supanroy" height="30" width="40" /></a>
 <a href="https://fb.com/itsme.supanroy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="itsme.supanroy" height="30" width="40" /></a>
 <a href="https://instagram.com/itsme.supanroy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itsme.supanroy" height="30" width="40" /></a>

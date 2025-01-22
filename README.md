@@ -6,7 +6,7 @@
 
 - 🏫 I’m currently studying **Computer Science and Engineering at Daffodil International University**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms**
+- 🌱 I’m currently learning **DSA, Object Oriented Programming & Web Development**
 
 - 💬 Ask me about **Programming**
 

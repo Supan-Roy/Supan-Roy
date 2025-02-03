@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Programming**
 
-- 📧 How to reach me **supanroy2021@gmail.com**
+- 📧 Reach me at **supanroy2021@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

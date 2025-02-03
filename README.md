@@ -7,11 +7,11 @@
 
 - 🏫 I’m currently studying **Computer Science and Engineering at Daffodil International University**
 
-- 🌱 I’m currently learning **DSA, Object Oriented Programming & Web Development**
+- 💻 I’m currently learning **DSA, Object Oriented Programming & Web Development**
 
 - 💬 Ask me about **Programming**
 
-- 📫 How to reach me **supanroy2021@gmail.com**
+- 📧 How to reach me **supanroy2021@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

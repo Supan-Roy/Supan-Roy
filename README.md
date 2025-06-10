@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Supan Roy</h1>
-<h3 align="center">CS Student | Learner | Technophile</h3>
+<h3 align="center">CS Student | Problem Solver | Technophile</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=supan-roy&label=Profile%20views&color=0e75b6&style=flat" alt="supan-roy" /> </p>
 

@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=supan-roy&theme=dracula&margin-w=15&margin-h=15" alt="supan-roy" />
+    <img src="https://github-profile-trophy.vercel.app/?username=supan-roy&theme=dracula&margin-w=15&margin-h=15" alt="supan-roy trophies" />
   </a>
 </p>
 
@@ -37,8 +37,16 @@
   <a href="https://instagram.com/supan.being.roy" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
+  <!-- HackerRank -->
+  <a href="https://www.hackerrank.com/supanroy" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
+  </a>
   <a href="https://codeforces.com/profile/supanroy" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" />
+  </a>
+  <!-- LeetCode -->
+  <a href="https://www.leetcode.com/supanroy" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
   </a>
 </p>
 
@@ -68,6 +76,11 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
   </a>
+  <!-- JavaScript (optional)
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  </a>
+  -->
 </p>
 
 ---
@@ -84,4 +97,12 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=supan-roy&layout=compact&theme=tokyonight" alt="Top Languages"/>
+</p>
+
+---
+
+### 🗓️ Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=supan-roy&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 </p>

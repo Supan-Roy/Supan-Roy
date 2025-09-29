@@ -38,9 +38,9 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
   <!-- HackerRank -->
-<!--   <a href="https://www.hackerrank.com/supanroy" target="blank">
+<a href="https://www.hackerrank.com/supanroy" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
-  </a> -->
+  </a>
   <a href="https://codeforces.com/profile/supanroy" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" />
   </a>
@@ -51,9 +51,16 @@
 </p>
 
 ---
+### 🏆 Codeforces Stats
+<p align="center">
+  <a href="https://codeforces.com/profile/supanroy" target="_blank">
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=supanroy&theme=cobalt&disable_animations=false&show_icons=true&force_username=true" alt="Codeforces Stats"/>
+  </a>
+</p>
+
+---
 
 ### 🛠️ Languages and Tools
-
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>

@@ -51,10 +51,14 @@
 </p>
 
 ---
-### 🏆 Codeforces Stats
+### 🏆 Competitive Programming Stats
 <p align="center">
   <a href="https://codeforces.com/profile/supanroy" target="_blank">
-    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=supanroy&theme=cobalt&disable_animations=false&show_icons=true&force_username=true" alt="Codeforces Stats"/>
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=supanroy&theme=cobalt&disable_animations=false&show_icons=true&force_username=true" alt="Codeforces Stats" width="400"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://leetcode.com/supanroy" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/supanroy?theme=dark&ext=heatmap" alt="LeetCode Stats" width="400"/>
   </a>
 </p>
 

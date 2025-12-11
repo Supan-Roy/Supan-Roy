@@ -18,7 +18,7 @@
 - 🎓 I’m currently studying **Computer Science and Engineering** at Daffodil International University  
 - 💻 I’m learning **Data Structures & Algorithms, OOP, and Databases**  
 - 💬 Ask me anything about **programming and tech stuff**  
-- 📧 Reach me at **supanroy2021@gmail.com**
+- 📧 Reach me at **contact@supanroy.com**
 
 ---
 

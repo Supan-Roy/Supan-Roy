@@ -98,23 +98,14 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=supan-roy&theme=tokyonight" 
-    width="900"
-  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=supan-roy&theme=tokyonight" width="850"/>
 </p>
 
 <p align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=supan-roy&theme=tokyonight" 
-    width="430"
-  />
-  &nbsp;&nbsp;&nbsp;
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=supan-roy&theme=tokyonight" 
-    width="430"
-  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=supan-roy&theme=tokyonight" width="400"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=supan-roy&theme=tokyonight" width="400"/>
 </p>
+>
 
 ---
 

@@ -98,7 +98,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=supan-roy&theme=tokyonight" width="850"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Supan-Roy&theme=tokyonight" width="850"/>
 </p>
 
 <p align="center">
